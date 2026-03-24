@@ -35,7 +35,7 @@ Verificar que el estudiante:
 
 
 #### Evidencia
-!\[Test 01 - Consulta de Registros](test01_230509.png)
+!\[Test 01 - Consulta de Registros](./test01_230509.png)
 
 
 
