@@ -21,6 +21,6 @@ Verificar que el estudiante:
 
 ### Evidencia
 ![Test 01 - Consulta de Registros](test1_230299.png)
-
+![Test 01 - Consulta de Registros](test1.1_230299.png)
 #### Estatus:
 Exitosa
