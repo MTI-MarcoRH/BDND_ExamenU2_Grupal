@@ -35,7 +35,7 @@ Verificar que el estudiante:
 
 
 #### Evidencia
-!\[Test 01 - Consulta de Registros](./tests01_230509/test01_230509.png)
+!\[Test 01 - Consulta de Registros]([./tests01_230509/test01_230509.png](https://github.com/MTI-MarcoRH/BDND_ExamenU2_Grupal/blob/main/test01_230509/test01_230509.png))
 
 
 
