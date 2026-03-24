@@ -1,5 +1,4 @@
 ## Test 01: Consultar los registros por Estudiantes
-
 ---
 
 
@@ -35,7 +34,7 @@ Verificar que el estudiante:
 
 
 #### Evidencia
-![Test 01 - Consulta de Registros](./tests_matricula/test1_matricula.png)
+![Test 01 - Consulta de Registros](test1_matricula.png)
 
 
 
