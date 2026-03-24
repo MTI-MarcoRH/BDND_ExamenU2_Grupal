@@ -24,7 +24,7 @@ Verificar que el estudiante:
 
 Se debe incluir evidencia visual del resultado de la consulta ejecutada.
 
-![Test 01 - Consulta de Registros](./test_230550/test1_230550.png)
+![Test 01 - Consulta de Registros](test1_230550.png)
 
 #### Estatus:
 Exitosa.
