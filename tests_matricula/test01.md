@@ -16,7 +16,7 @@ Verificar que el estudiante:
 
 - Comprende la estructura de la base de datos.
 - Es capaz de realizar una consulta SELECT correctamente
-- Aplica filtros (\*\*WHERE\*\*) a la vista de  \*Registros por estudiante\*
+- Aplica filtros (**WHERE**) a la vista de  *Registros por estudiante*
 
 
 
@@ -35,7 +35,7 @@ Verificar que el estudiante:
 
 
 #### Evidencia
-!\[Test 01 - Consulta de Registros](./tests\_matricula/test1\_matricula.png)
+![Test 01 - Consulta de Registros](./tests\_matricula/test1\_matricula.png)
 
 
 
