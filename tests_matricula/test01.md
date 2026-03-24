@@ -35,15 +35,6 @@ Verificar que el estudiante:
 
 
 #### Evidencia
-
-
-
-Se debe incluir evidencia visual del resultado de la consulta ejecutada.
-
-
-
-```md
-
 !\[Test 01 - Consulta de Registros](./tests\_matricula/test1\_matricula.png)
 
 
