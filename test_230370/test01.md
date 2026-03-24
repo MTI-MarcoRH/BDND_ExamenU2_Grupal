@@ -24,7 +24,7 @@ Verificar que el estudiante:
 
 #### Evidencia
 
-![Test 01 - Consulta de Registros](.test_230370/test1_230370.png)
+![Test 01 - Consulta de Registros](https://github.com/MTI-MarcoRH/BDND_ExamenU2_Grupal/blob/main/test_230370/test1_230370.png)
 
 #### Estatus:
 
