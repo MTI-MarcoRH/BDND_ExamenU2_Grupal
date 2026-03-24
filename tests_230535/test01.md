@@ -23,7 +23,7 @@ Consulta SQL a la base de datos centralizada del proyecto de clase de e-commerce
 Se debe incluir evidencia visual del resultado de la consulta ejecutada.
 
 ´´´md
-![Test 01 - Consulta de Registros](./tests_230535/test1_230535.png)
+![Test 01 - Consulta de Registros](test1_230535.png)
 
 #### Estatus:
 Exitosa.
