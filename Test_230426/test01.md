@@ -19,7 +19,7 @@ Deberá contar  con al menos 40 registros de categorización de productos (por a
 Deberá contar con 20 registros  de categorización  en base al origen del ´producto (Nacional / importación)
 
 #### Evidencia
-![Test 1 - Consulta de Registros](./test_matricula/test1_matricula.png)
+![Test 1 - Consulta de Registros](https://github.com/MTI-MarcoRH/BDND_ExamenU2_Grupal/blob/main/Test_230426/Test1_230426.png)
 
 #### Estatus:
 Exitosa. 
