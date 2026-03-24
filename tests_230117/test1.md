@@ -23,7 +23,7 @@ Verificar que el estudiante:
 
 #### Evidencia: 
 
-![Test 01 - Consulta de Registros](./tests_230117/test1_230117.jpg)
+![Test 01 - Consulta de Registros](test1_230117.jpg)
 
 #### Estatus:
 Exitosa.
