@@ -24,7 +24,7 @@ productos (por aquello que les toco una subcategoría).
 (Nacional/Importación).
 
 #### Evidencia 
-![Test 01 - Consulta de Registros](./tests_230379/test1_230379.jpg)
+![Test 01 - Consulta de Registros](test1_230379.jpg)
 
 #### Estatus:
 Exitosa.
