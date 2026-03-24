@@ -21,7 +21,7 @@ Verificar que el estudiante:
 • Deberá contar con 20 registros de categorización en base al origen del producto (Nacional/Importación)
 
 #### Evidencia 
-![Test 01 - Consulta de Registros] (test1_230438)
+![Test 01 - Consulta de Registros](test1_230438.png)
 
 #### Estatus:
 Exitosa.
