@@ -22,7 +22,7 @@ Verificar que el estudiante:
 
 Se debe incluir evidencia visual
 
-![Test 01 - Consulta de Registros]([test1.230639.png](https://github.com/MTI-MarcoRH/BDND_ExamenU2_Grupal/blob/main/Test_230639/test1_230639.png))
+![Test 01 - Consulta de Registros]([test1.230639.png](https://github.com/MTI-MarcoRH/BDND_ExamenU2_Grupal/blob/main/Test_230639/test1_230639.png)
 
 ### Estatus
 
