@@ -20,3 +20,10 @@ Verificar que el estudiante:
 
 ### Evidencia
 
+Se debe incluir evidencia visual
+
+![Test 01 - Consulta de Registros](test1.230639.png)
+
+### Estatus
+
+Exitosa
